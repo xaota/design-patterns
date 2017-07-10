@@ -2,8 +2,10 @@
 
 `JavaScript`- реализации различных паттернов проектирования для [блога @stardreamer](https://couthyblog.xyz)
 
-- [x] Паттерн [Стратегия](patterns/strategy.md) (`strategy` или `policy`) [статья](https://couthyblog.xyz/pattiern-stratieghiia/)
-- [x] Паттерн [Посетитель](patterns/visitor.md) (`visitor`) [статья](https://couthyblog.xyz/pattiern-posietitiel/)
-- [ ] Паттерн "Посредник" (`mediator`)
-- [ ] Паттерн "Итератор" (`iterator`)
-- [ ] Паттерн "Шаблонный метод" (`template method`)
+| Паттерн                           | Pattern                 | Blog Post                                                    |
+| :-------------------------------- |:------------------------| ------------------------------------------------------------:|
+| [Стратегия](patterns/strategy.md) | `strategy` или `policy` | [ссылка](https://couthyblog.xyz/pattiern-stratieghiia/)      |
+| [Посетитель](patterns/visitor.md) | `visitor`               | [ссылка](https://couthyblog.xyz/pattiern-posietitiel/)       |
+| Посредник                         | `mediator`              | [ссылка](https://couthyblog.xyz/pattiern-posriednik/)        |
+| Итератор                          | `iterator`              | [ссылка](https://couthyblog.xyz/pattiern-itierator/)         |
+| Шаблонный метод                   | `template method`       | [ссылка](https://couthyblog.xyz/pattiern-shablonnyi-mietod/) |
